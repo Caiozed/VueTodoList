@@ -1,5 +1,5 @@
 {
-  "name": "test-project",
+  "name": "Vue Todo List",
   "version": "1.0.0",
   "description": "A Vue.js project",
   "main": "src/main.js",
